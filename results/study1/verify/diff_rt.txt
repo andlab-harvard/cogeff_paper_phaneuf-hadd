@@ -1,0 +1,16 @@
+Easy Mean: 0.67981 
+Easy Standard Deviation: 0.1377399 
+Hard Mean: 0.7053257 
+Hard Standard Deviation: 0.1487267 
+
+	Paired t-test
+
+data:  learn_diff_rt_df_wide$Easy and learn_diff_rt_df_wide$Hard
+t = -7.6831, df = 149, p-value = 9.596e-13
+alternative hypothesis: true difference in means is less than 0
+95 percent confidence interval:
+        -Inf -0.02001897
+sample estimates:
+mean of the differences 
+            -0.02551573 
+

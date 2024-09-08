@@ -1,0 +1,25 @@
+All Participants
+Total N: 150 
+
+AGE
+Total Children: 41 
+Total Adolescents: 68 
+Total Adults: 41 
+Mean Age: 15.49253 
+SD Age: 3.169404 
+
+GENDER
+Total Feminine: 79 
+Total Masculine: 68 
+Total Not Captured by Options: 3 
+
+RACE
+Proportion Asian: 0.1133333 
+Proportion Black or African American: 0.06666667 
+Proportion Native Hawaiian or other Pacific Islander: 0 
+Proportion White: 0.6066667 
+Proportion Not Captured by Options: 0.2133333 
+
+ETHNICITY
+Proportion Hispanic: 0.12 
+Proportion Not Hispanic: 0.88 

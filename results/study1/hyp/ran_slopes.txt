@@ -1,0 +1,23 @@
+No random slopes:
+# R2 for Mixed Models
+
+  Conditional R2: 0.837
+     Marginal R2: 0.111
+
+Random slope for time:
+# R2 for Mixed Models
+
+  Conditional R2: 0.844
+     Marginal R2: 0.107
+
+Random slope for incentive:
+# R2 for Mixed Models
+
+  Conditional R2: 0.840
+     Marginal R2: 0.108
+
+Random slope for difficulty:
+# R2 for Mixed Models
+
+  Conditional R2: 0.836
+     Marginal R2: 0.108

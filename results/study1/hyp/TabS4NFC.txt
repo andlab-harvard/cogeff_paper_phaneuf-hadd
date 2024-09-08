@@ -1,0 +1,22 @@
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: cbind(n_corr, n_total - n_corr)
+                                            Chisq Df Pr(>Chisq)   
+nfc_total                                  3.5818  1   0.058416 . 
+Difficulty                                 8.9517  1   0.002772 **
+Incentive                                  0.0169  1   0.896637   
+block_third                                1.0204  2   0.600378   
+ExactAge                                   9.3564  1   0.002222 **
+nfc_total:Difficulty                       0.0128  1   0.909752   
+nfc_total:Incentive                        0.6377  1   0.424534   
+Difficulty:Incentive                       2.4624  1   0.116602   
+nfc_total:block_third                      4.4447  2   0.108356   
+Difficulty:block_third                     0.5912  2   0.744086   
+Incentive:block_third                      0.2671  2   0.874994   
+nfc_total:Difficulty:Incentive             0.2677  1   0.604875   
+nfc_total:Difficulty:block_third           2.5811  2   0.275114   
+nfc_total:Incentive:block_third            2.0905  2   0.351601   
+Difficulty:Incentive:block_third           0.3714  2   0.830527   
+nfc_total:Difficulty:Incentive:block_third 2.8991  2   0.234674   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
