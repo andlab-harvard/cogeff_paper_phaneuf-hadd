@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = t_score ~ ExactAge_MatReas, data = matreas)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-32.221  -5.040   0.058   5.118  21.144 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        60.727      3.991  15.217   <2e-16 ***
+ExactAge_MatReas   -0.176      0.253  -0.696    0.488    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 9.791 on 148 degrees of freedom
+Multiple R-squared:  0.003259,	Adjusted R-squared:  -0.003476 
+F-statistic: 0.4839 on 1 and 148 DF,  p-value: 0.4878
+

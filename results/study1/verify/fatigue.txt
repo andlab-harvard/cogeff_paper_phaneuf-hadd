@@ -1,0 +1,16 @@
+Begin Mean: 0.9693286 
+Begin Standard Deviation: 0.02931392 
+End Mean: 0.9675537 
+End Standard Deviation: 0.03537115 
+
+	Paired t-test
+
+data:  fatigue_wide$Begin and fatigue_wide$End
+t = 0.77349, df = 149, p-value = 0.2202
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.002023074          Inf
+sample estimates:
+mean of the differences 
+            0.001774888 
+

@@ -1,151 +1,151 @@
-num_tries,num_misses,num_speed_outliers,Gender,ExactAge,Race,Ethnicity,FlooredAge,AgeGroup,participant
-3,0,3,Feminine,20.378082191780823,Asian,Not Hispanic or Latino,20,Adults,1
-3,0,3,Feminine,19.97808219178082,Black or African American,Not Hispanic or Latino,19,Adults,2
-4,0,1,Feminine,14.75068493150685,White,Not Hispanic or Latino,14,Adolescents,3
-3,0,2,Masculine,12.36986301369863,Not Captured by Options,Hispanic or Latino,12,Children,4
-3,0,3,Masculine,17.027397260273972,Asian,Not Hispanic or Latino,17,Adolescents,5
-4,11,12,Masculine,16.731506849315068,White,Not Hispanic or Latino,16,Adolescents,6
-4,7,10,Masculine,13.61917808219178,White,Hispanic or Latino,13,Adolescents,7
-3,0,4,Masculine,10.75890410958904,White,Not Hispanic or Latino,10,Children,8
-3,2,6,Feminine,18.232876712328768,Asian,Not Hispanic or Latino,18,Adults,9
-3,1,4,Feminine,19.46849315068493,White,Not Hispanic or Latino,19,Adults,10
-3,0,1,Feminine,15.934246575342463,White,Not Hispanic or Latino,15,Adolescents,11
-3,0,3,Feminine,15.583561643835615,White,Not Hispanic or Latino,15,Adolescents,12
-3,0,2,Feminine,11.572602739726028,Not Captured by Options,Hispanic or Latino,11,Children,13
-3,0,4,Feminine,17.328767123287673,White,Not Hispanic or Latino,17,Adolescents,14
-3,0,2,Feminine,12.002739726027396,White,Not Hispanic or Latino,12,Children,15
-3,0,4,Feminine,10.654794520547943,Not Captured by Options,Not Hispanic or Latino,10,Children,16
-3,0,2,Masculine,20.523287671232875,White,Hispanic or Latino,20,Adults,17
-3,1,5,Masculine,17.93972602739726,White,Hispanic or Latino,17,Adolescents,18
-3,0,6,Masculine,16.136986301369863,White,Not Hispanic or Latino,16,Adolescents,19
-3,0,5,Feminine,12.778082191780822,White,Not Hispanic or Latino,12,Children,20
-3,0,3,Masculine,14.3013698630137,Not Captured by Options,Hispanic or Latino,14,Adolescents,21
-3,0,1,Masculine,13.676712328767124,White,Not Hispanic or Latino,13,Adolescents,22
-3,0,2,Masculine,15.92054794520548,Asian,Not Hispanic or Latino,15,Adolescents,23
-4,0,5,Masculine,11.654794520547943,Not Captured by Options,Not Hispanic or Latino,11,Children,24
-3,0,4,Masculine,19.695890410958903,White,Hispanic or Latino,19,Adults,25
-3,0,3,Feminine,20.27123287671233,Black or African American,Not Hispanic or Latino,20,Adults,26
-3,0,1,Masculine,14.613698630136986,White,Not Hispanic or Latino,14,Adolescents,27
-4,0,4,Masculine,20.194520547945206,Black or African American,Not Hispanic or Latino,20,Adults,28
-3,1,6,Feminine,12.802739726027395,White,Not Hispanic or Latino,12,Children,29
-3,0,1,Feminine,16.336986301369862,White,Not Hispanic or Latino,16,Adolescents,30
-3,0,3,Masculine,13.142465753424656,White,Not Hispanic or Latino,13,Adolescents,31
-4,0,1,Feminine,10.504109589041096,Not Captured by Options,Not Hispanic or Latino,10,Children,32
-3,0,4,Feminine,19.454794520547942,White,Not Hispanic or Latino,19,Adults,33
-4,1,3,Feminine,11.728767123287671,Not Captured by Options,Not Hispanic or Latino,11,Children,34
-3,2,7,Feminine,12.772602739726029,White,Not Hispanic or Latino,12,Children,35
-3,0,4,Feminine,17.673972602739727,White,Hispanic or Latino,17,Adolescents,36
-3,0,3,Masculine,17.167123287671235,White,Not Hispanic or Latino,17,Adolescents,37
-4,6,10,Feminine,13.857534246575344,Not Captured by Options,Not Hispanic or Latino,13,Adolescents,38
-3,0,4,Feminine,17.706849315068492,White,Not Hispanic or Latino,17,Adolescents,39
-4,0,3,Feminine,14.602739726027398,White,Not Hispanic or Latino,14,Adolescents,40
-4,0,3,Masculine,10.402739726027397,Not Captured by Options,Not Hispanic or Latino,10,Children,41
-3,0,5,Feminine,15.191780821917808,White,Not Hispanic or Latino,15,Adolescents,42
-3,0,4,Feminine,18.268493150684932,Black or African American,Not Hispanic or Latino,18,Adults,43
-3,0,4,Masculine,20.246575342465754,Black or African American,Not Hispanic or Latino,20,Adults,44
-3,0,2,Feminine,11.526027397260274,White,Not Hispanic or Latino,11,Children,45
-3,2,5,Feminine,14.884931506849314,White,Not Hispanic or Latino,14,Adolescents,46
-3,0,1,Masculine,16.10958904109589,White,Not Hispanic or Latino,16,Adolescents,47
-3,0,5,Masculine,20.665753424657535,Black or African American,Not Hispanic or Latino,20,Adults,48
-3,0,2,Feminine,13.087671232876712,White,Not Hispanic or Latino,13,Adolescents,49
-3,1,5,Masculine,12.23013698630137,White,Not Hispanic or Latino,12,Children,50
-3,1,4,Feminine,10.306849315068494,White,Not Hispanic or Latino,10,Children,51
-3,0,2,Masculine,18.15068493150685,Not Captured by Options,Not Hispanic or Latino,18,Adults,52
-3,0,4,Masculine,19.46849315068493,White,Not Hispanic or Latino,19,Adults,53
-3,0,4,Feminine,17.16986301369863,Asian,Not Hispanic or Latino,17,Adolescents,54
-3,0,1,Masculine,13.567123287671231,White,Not Hispanic or Latino,13,Adolescents,55
-3,0,3,Masculine,11.8,Not Captured by Options,Not Hispanic or Latino,11,Children,56
-3,0,4,Masculine,12.134246575342466,Not Captured by Options,Not Hispanic or Latino,12,Children,57
-3,1,8,Feminine,16.246575342465754,White,Not Hispanic or Latino,16,Adolescents,58
-3,0,1,Feminine,13.46027397260274,White,Not Hispanic or Latino,13,Adolescents,59
-3,0,3,Feminine,14.942465753424658,White,Not Hispanic or Latino,14,Adolescents,60
-3,0,3,Masculine,17.904109589041095,Not Captured by Options,Not Hispanic or Latino,17,Adolescents,61
-3,0,3,Masculine,10.745205479452055,Not Captured by Options,Not Hispanic or Latino,10,Children,62
-3,0,2,Masculine,15.487671232876712,White,Not Hispanic or Latino,15,Adolescents,63
-3,0,2,Feminine,20.49041095890411,White,Not Hispanic or Latino,20,Adults,64
-3,0,4,Feminine,19.03835616438356,White,Not Hispanic or Latino,19,Adults,65
-3,0,4,Feminine,18.438356164383563,Not Captured by Options,Not Hispanic or Latino,18,Adults,66
-3,0,3,Feminine,11.276712328767124,White,Not Hispanic or Latino,11,Children,67
-3,0,2,Feminine,11.484931506849316,White,Hispanic or Latino,11,Children,68
-3,0,4,Feminine,14.915068493150685,White,Not Hispanic or Latino,14,Adolescents,69
-3,0,4,Feminine,16.915068493150685,White,Not Hispanic or Latino,16,Adolescents,70
-3,0,5,Masculine,18.586301369863012,White,Not Hispanic or Latino,18,Adults,71
-3,0,4,Feminine,12.745205479452055,White,Not Hispanic or Latino,12,Children,72
-3,0,3,Masculine,19.986301369863018,White,Not Hispanic or Latino,19,Adults,73
-3,1,4,Not Captured by Options,10.58904109589041,White,Not Hispanic or Latino,10,Children,74
-3,0,1,Masculine,18.301369863013697,White,Not Hispanic or Latino,18,Adults,75
-3,0,3,Masculine,14.035616438356165,White,Not Hispanic or Latino,14,Adolescents,76
-3,0,2,Masculine,15.605479452054794,White,Not Hispanic or Latino,15,Adolescents,77
-3,0,4,Feminine,16.693150684931506,White,Not Hispanic or Latino,16,Adolescents,78
-4,0,3,Masculine,12.498630136986302,White,Hispanic or Latino,12,Children,79
-3,0,3,Feminine,14.345205479452057,White,Not Hispanic or Latino,14,Adolescents,80
-3,0,2,Feminine,17.7013698630137,Not Captured by Options,Hispanic or Latino,17,Adolescents,81
-3,0,1,Feminine,15.915068493150685,Asian,Not Hispanic or Latino,15,Adolescents,82
-3,0,0,Masculine,10.158904109589042,Asian,Not Hispanic or Latino,10,Children,83
-3,0,5,Feminine,20.904109589041095,White,Not Hispanic or Latino,20,Adults,84
-3,0,2,Not Captured by Options,19.353424657534248,Asian,Not Hispanic or Latino,19,Adults,85
-3,0,5,Feminine,11.613698630136986,Black or African American,Not Hispanic or Latino,11,Children,86
-3,0,3,Feminine,13.32054794520548,White,Not Hispanic or Latino,13,Adolescents,87
-3,0,3,Feminine,16.56986301369863,White,Not Hispanic or Latino,16,Adolescents,88
-3,0,1,Masculine,18.931506849315067,Not Captured by Options,Hispanic or Latino,18,Adults,89
-3,0,5,Feminine,12.786301369863011,Not Captured by Options,Not Hispanic or Latino,12,Children,90
-3,0,3,Masculine,20.03287671232877,White,Not Hispanic or Latino,20,Adults,91
-4,0,4,Masculine,19.405479452054795,Not Captured by Options,Not Hispanic or Latino,19,Adults,92
-3,2,7,Masculine,13.2,White,Not Hispanic or Latino,13,Adolescents,93
-3,0,4,Masculine,13.046575342465754,Not Captured by Options,Not Hispanic or Latino,13,Adolescents,94
-3,0,2,Masculine,18.942465753424656,Asian,Not Hispanic or Latino,18,Adults,95
-3,0,2,Feminine,15.024657534246575,White,Not Hispanic or Latino,15,Adolescents,96
-3,0,4,Masculine,14.276712328767124,Not Captured by Options,Not Hispanic or Latino,14,Adolescents,97
-3,0,1,Masculine,12.975342465753425,Not Captured by Options,Not Hispanic or Latino,12,Children,98
-3,0,1,Feminine,16.802739726027397,White,Not Hispanic or Latino,16,Adolescents,99
-3,0,2,Masculine,10.96164383561644,White,Not Hispanic or Latino,10,Children,100
-3,0,2,Masculine,15.408219178082192,White,Not Hispanic or Latino,15,Adolescents,101
-3,1,5,Feminine,20.12054794520548,Asian,Not Hispanic or Latino,20,Adults,102
-3,0,3,Masculine,17.03835616438356,White,Not Hispanic or Latino,17,Adolescents,103
-3,1,4,Masculine,10.865753424657534,White,Not Hispanic or Latino,10,Children,104
-3,0,2,Feminine,19.56986301369863,White,Not Hispanic or Latino,19,Adults,105
-3,0,2,Feminine,18.2986301369863,Asian,Not Hispanic or Latino,18,Adults,106
-3,0,4,Feminine,11.61917808219178,White,Not Hispanic or Latino,11,Children,107
-3,0,3,Masculine,16.85753424657534,White,Not Hispanic or Latino,16,Adolescents,108
-3,0,4,Feminine,10.98082191780822,White,Not Hispanic or Latino,10,Children,109
-3,0,3,Feminine,13.846575342465751,Not Captured by Options,Hispanic or Latino,13,Adolescents,110
-3,1,5,Masculine,12.558904109589042,Asian,Not Hispanic or Latino,12,Children,111
-3,0,5,Feminine,17.567123287671233,White,Not Hispanic or Latino,17,Adolescents,112
-3,3,7,Masculine,19.495890410958904,Asian,Not Hispanic or Latino,19,Adults,113
-4,0,4,Masculine,19,Black or African American,Not Hispanic or Latino,19,Adults,114
-3,0,2,Not Captured by Options,15.975342465753425,White,Not Hispanic or Latino,15,Adolescents,115
-3,0,3,Feminine,14.438356164383562,Not Captured by Options,Not Hispanic or Latino,14,Adolescents,116
-3,0,5,Feminine,13.863013698630136,Not Captured by Options,Not Hispanic or Latino,13,Adolescents,117
-3,0,6,Feminine,16.898630136986302,White,Not Hispanic or Latino,16,Adolescents,118
-3,0,3,Feminine,12.424657534246576,Not Captured by Options,Hispanic or Latino,12,Children,119
-3,0,4,Feminine,20.523287671232875,White,Not Hispanic or Latino,20,Adults,120
-3,3,6,Feminine,10.252054794520548,White,Hispanic or Latino,10,Children,121
-3,0,1,Masculine,15.243835616438355,White,Not Hispanic or Latino,15,Adolescents,122
-3,0,1,Feminine,18.846575342465755,Not Captured by Options,Not Hispanic or Latino,18,Adults,123
-3,0,4,Feminine,19.14246575342466,White,Not Hispanic or Latino,19,Adults,124
-3,0,3,Masculine,11.35890410958904,White,Not Hispanic or Latino,11,Children,125
-4,0,5,Feminine,16.339726027397262,White,Not Hispanic or Latino,16,Adolescents,126
-5,0,4,Feminine,13.56986301369863,White,Not Hispanic or Latino,13,Adolescents,127
-3,0,1,Masculine,12.76986301369863,White,Not Hispanic or Latino,12,Children,128
-4,0,1,Masculine,20.8,White,Not Hispanic or Latino,20,Adults,129
-3,0,2,Masculine,13.616438356164384,Asian,Not Hispanic or Latino,13,Adolescents,130
-4,0,4,Masculine,20.246575342465754,Black or African American,Not Hispanic or Latino,20,Adults,131
-3,0,4,Masculine,16.695890410958903,Asian,Not Hispanic or Latino,16,Adolescents,132
-5,0,4,Feminine,15.956164383561644,Not Captured by Options,Not Hispanic or Latino,15,Adolescents,133
-3,0,4,Feminine,14.827397260273973,White,Not Hispanic or Latino,14,Adolescents,134
-3,0,4,Masculine,12.558904109589042,Not Captured by Options,Hispanic or Latino,12,Children,135
-3,0,3,Feminine,20.4986301369863,White,Not Hispanic or Latino,20,Adults,136
-3,0,4,Feminine,16.523287671232875,White,Not Hispanic or Latino,16,Adolescents,137
-3,0,3,Feminine,13.643835616438356,White,Not Hispanic or Latino,13,Adolescents,138
-3,0,3,Feminine,10.161643835616438,White,Not Hispanic or Latino,10,Children,139
-5,0,6,Feminine,15.134246575342466,White,Not Hispanic or Latino,15,Adolescents,140
-3,0,1,Feminine,19.106849315068494,White,Not Hispanic or Latino,19,Adults,141
-3,0,2,Feminine,18.389041095890413,Asian,Not Hispanic or Latino,18,Adults,142
-5,0,3,Masculine,16.476712328767125,Asian,Not Hispanic or Latino,16,Adolescents,143
-3,1,6,Feminine,11.723287671232876,Not Captured by Options,Not Hispanic or Latino,11,Children,144
-3,0,2,Masculine,15.315068493150685,White,Not Hispanic or Latino,15,Adolescents,145
-3,0,2,Masculine,14.082191780821915,White,Not Hispanic or Latino,14,Adolescents,146
-3,0,3,Masculine,10.512328767123288,White,Not Hispanic or Latino,10,Children,147
-3,0,1,Masculine,20.243835616438357,Black or African American,Not Hispanic or Latino,20,Adults,148
-3,0,3,Masculine,10.276712328767124,Not Captured by Options,Hispanic or Latino,10,Children,149
-4,2,5,Masculine,18.5013698630137,Not Captured by Options,Hispanic or Latino,18,Adults,150
+"","num_tries","learn_num_misses","learn_num_speed_outliers","Gender","ExactAge","Race","Ethnicity","FlooredAge","AgeGroup","prac_num_misses","prac_num_speed_outliers","participant"
+"1",3,0,3,"Feminine",20.3780821917808,"Asian","Not Hispanic or Latino",20,"Adults",0,1,1
+"2",3,0,3,"Feminine",19.9780821917808,"Black or African American","Not Hispanic or Latino",19,"Adults",1,3,2
+"3",4,0,1,"Feminine",14.7506849315069,"White","Not Hispanic or Latino",14,"Adolescents",0,2,3
+"4",3,0,2,"Masculine",12.3698630136986,"Not Captured by Options","Hispanic or Latino",12,"Children",0,1,4
+"5",3,0,3,"Masculine",17.027397260274,"Asian","Not Hispanic or Latino",17,"Adolescents",0,3,5
+"6",4,11,12,"Masculine",16.7315068493151,"White","Not Hispanic or Latino",16,"Adolescents",0,1,6
+"7",4,7,10,"Masculine",13.6191780821918,"White","Hispanic or Latino",13,"Adolescents",0,2,7
+"8",3,0,4,"Masculine",10.758904109589,"White","Not Hispanic or Latino",10,"Children",5,5,8
+"9",3,2,6,"Feminine",18.2328767123288,"Asian","Not Hispanic or Latino",18,"Adults",1,3,9
+"10",3,1,4,"Feminine",19.4684931506849,"White","Not Hispanic or Latino",19,"Adults",0,2,10
+"11",3,0,1,"Feminine",15.9342465753425,"White","Not Hispanic or Latino",15,"Adolescents",4,4,11
+"12",3,0,3,"Feminine",15.5835616438356,"White","Not Hispanic or Latino",15,"Adolescents",0,2,12
+"13",3,0,2,"Feminine",11.572602739726,"Not Captured by Options","Hispanic or Latino",11,"Children",1,4,13
+"14",3,0,4,"Feminine",17.3287671232877,"White","Not Hispanic or Latino",17,"Adolescents",0,1,14
+"15",3,0,2,"Feminine",12.0027397260274,"White","Not Hispanic or Latino",12,"Children",2,3,15
+"16",3,0,4,"Feminine",10.6547945205479,"Not Captured by Options","Not Hispanic or Latino",10,"Children",0,1,16
+"17",3,0,2,"Masculine",20.5232876712329,"White","Hispanic or Latino",20,"Adults",0,2,17
+"18",3,1,5,"Masculine",17.9397260273973,"White","Hispanic or Latino",17,"Adolescents",1,3,18
+"19",3,0,6,"Masculine",16.1369863013699,"White","Not Hispanic or Latino",16,"Adolescents",0,4,19
+"20",3,0,5,"Feminine",12.7780821917808,"White","Not Hispanic or Latino",12,"Children",0,2,20
+"21",3,0,3,"Masculine",14.3013698630137,"Not Captured by Options","Hispanic or Latino",14,"Adolescents",1,4,21
+"22",3,0,1,"Masculine",13.6767123287671,"White","Not Hispanic or Latino",13,"Adolescents",0,2,22
+"23",3,0,2,"Masculine",15.9205479452055,"Asian","Not Hispanic or Latino",15,"Adolescents",1,3,23
+"24",4,0,5,"Masculine",11.6547945205479,"Not Captured by Options","Not Hispanic or Latino",11,"Children",1,3,24
+"25",3,0,4,"Masculine",19.6958904109589,"White","Hispanic or Latino",19,"Adults",1,3,25
+"26",3,0,3,"Feminine",20.2712328767123,"Black or African American","Not Hispanic or Latino",20,"Adults",0,3,26
+"27",3,0,1,"Masculine",14.613698630137,"White","Not Hispanic or Latino",14,"Adolescents",1,3,27
+"28",4,0,4,"Masculine",20.1945205479452,"Black or African American","Not Hispanic or Latino",20,"Adults",0,3,28
+"29",3,1,6,"Feminine",12.8027397260274,"White","Not Hispanic or Latino",12,"Children",4,6,29
+"30",3,0,1,"Feminine",16.3369863013699,"White","Not Hispanic or Latino",16,"Adolescents",1,3,30
+"31",3,0,3,"Masculine",13.1424657534247,"White","Not Hispanic or Latino",13,"Adolescents",0,1,31
+"32",4,0,1,"Feminine",10.5041095890411,"Not Captured by Options","Not Hispanic or Latino",10,"Children",0,2,32
+"33",3,0,4,"Feminine",19.4547945205479,"White","Not Hispanic or Latino",19,"Adults",0,1,33
+"34",4,1,3,"Feminine",11.7287671232877,"Not Captured by Options","Not Hispanic or Latino",11,"Children",2,5,34
+"35",3,2,7,"Feminine",12.772602739726,"White","Not Hispanic or Latino",12,"Children",0,4,35
+"36",3,0,4,"Feminine",17.6739726027397,"White","Hispanic or Latino",17,"Adolescents",0,2,36
+"37",3,0,3,"Masculine",17.1671232876712,"White","Not Hispanic or Latino",17,"Adolescents",0,1,37
+"38",4,6,10,"Feminine",13.8575342465753,"Not Captured by Options","Not Hispanic or Latino",13,"Adolescents",4,4,38
+"39",3,0,4,"Feminine",17.7068493150685,"White","Not Hispanic or Latino",17,"Adolescents",0,1,39
+"40",4,0,3,"Feminine",14.6027397260274,"White","Not Hispanic or Latino",14,"Adolescents",0,2,40
+"41",4,0,3,"Masculine",10.4027397260274,"Not Captured by Options","Not Hispanic or Latino",10,"Children",0,1,41
+"42",3,0,5,"Feminine",15.1917808219178,"White","Not Hispanic or Latino",15,"Adolescents",0,1,42
+"43",3,0,4,"Feminine",18.2684931506849,"Black or African American","Not Hispanic or Latino",18,"Adults",0,1,43
+"44",3,0,4,"Masculine",20.2465753424658,"Black or African American","Not Hispanic or Latino",20,"Adults",0,1,44
+"45",3,0,2,"Feminine",11.5260273972603,"White","Not Hispanic or Latino",11,"Children",0,2,45
+"46",3,2,5,"Feminine",14.8849315068493,"White","Not Hispanic or Latino",14,"Adolescents",1,4,46
+"47",3,0,1,"Masculine",16.1095890410959,"White","Not Hispanic or Latino",16,"Adolescents",0,3,47
+"48",3,0,5,"Masculine",20.6657534246575,"Black or African American","Not Hispanic or Latino",20,"Adults",2,5,48
+"49",3,0,2,"Feminine",13.0876712328767,"White","Not Hispanic or Latino",13,"Adolescents",0,3,49
+"50",3,1,5,"Masculine",12.2301369863014,"White","Not Hispanic or Latino",12,"Children",1,1,50
+"51",3,1,4,"Feminine",10.3068493150685,"White","Not Hispanic or Latino",10,"Children",1,3,51
+"52",3,0,2,"Masculine",18.1506849315068,"Not Captured by Options","Not Hispanic or Latino",18,"Adults",0,2,52
+"53",3,0,4,"Masculine",19.4684931506849,"White","Not Hispanic or Latino",19,"Adults",0,2,53
+"54",3,0,4,"Feminine",17.1698630136986,"Asian","Not Hispanic or Latino",17,"Adolescents",0,3,54
+"55",3,0,1,"Masculine",13.5671232876712,"White","Not Hispanic or Latino",13,"Adolescents",0,1,55
+"56",3,0,3,"Masculine",11.8,"Not Captured by Options","Not Hispanic or Latino",11,"Children",0,3,56
+"57",3,0,4,"Masculine",12.1342465753425,"Not Captured by Options","Not Hispanic or Latino",12,"Children",0,1,57
+"58",3,1,8,"Feminine",16.2465753424658,"White","Not Hispanic or Latino",16,"Adolescents",1,3,58
+"59",3,0,1,"Feminine",13.4602739726027,"White","Not Hispanic or Latino",13,"Adolescents",0,3,59
+"60",3,0,3,"Feminine",14.9424657534247,"White","Not Hispanic or Latino",14,"Adolescents",0,4,60
+"61",3,0,3,"Masculine",17.9041095890411,"Not Captured by Options","Not Hispanic or Latino",17,"Adolescents",0,3,61
+"62",3,0,3,"Masculine",10.7452054794521,"Not Captured by Options","Not Hispanic or Latino",10,"Children",0,2,62
+"63",3,0,2,"Masculine",15.4876712328767,"White","Not Hispanic or Latino",15,"Adolescents",0,3,63
+"64",3,0,2,"Feminine",20.4904109589041,"White","Not Hispanic or Latino",20,"Adults",0,2,64
+"65",3,0,4,"Feminine",19.0383561643836,"White","Not Hispanic or Latino",19,"Adults",0,2,65
+"66",3,0,4,"Feminine",18.4383561643836,"Not Captured by Options","Not Hispanic or Latino",18,"Adults",0,2,66
+"67",3,0,3,"Feminine",11.2767123287671,"White","Not Hispanic or Latino",11,"Children",0,3,67
+"68",3,0,2,"Feminine",11.4849315068493,"White","Hispanic or Latino",11,"Children",0,2,68
+"69",3,0,4,"Feminine",14.9150684931507,"White","Not Hispanic or Latino",14,"Adolescents",0,1,69
+"70",3,0,4,"Feminine",16.9150684931507,"White","Not Hispanic or Latino",16,"Adolescents",0,2,70
+"71",3,0,5,"Masculine",18.586301369863,"White","Not Hispanic or Latino",18,"Adults",0,2,71
+"72",3,0,4,"Feminine",12.7452054794521,"White","Not Hispanic or Latino",12,"Children",1,1,72
+"73",3,0,3,"Masculine",19.986301369863,"White","Not Hispanic or Latino",19,"Adults",0,1,73
+"74",3,1,4,"Not Captured by Options",10.5890410958904,"White","Not Hispanic or Latino",10,"Children",1,2,74
+"75",3,0,1,"Masculine",18.3013698630137,"White","Not Hispanic or Latino",18,"Adults",1,3,75
+"76",3,0,3,"Masculine",14.0356164383562,"White","Not Hispanic or Latino",14,"Adolescents",1,2,76
+"77",3,0,2,"Masculine",15.6054794520548,"White","Not Hispanic or Latino",15,"Adolescents",0,2,77
+"78",3,0,4,"Feminine",16.6931506849315,"White","Not Hispanic or Latino",16,"Adolescents",0,1,78
+"79",4,0,3,"Masculine",12.4986301369863,"White","Hispanic or Latino",12,"Children",0,1,79
+"80",3,0,3,"Feminine",14.3452054794521,"White","Not Hispanic or Latino",14,"Adolescents",0,2,80
+"81",3,0,2,"Feminine",17.7013698630137,"Not Captured by Options","Hispanic or Latino",17,"Adolescents",0,3,81
+"82",3,0,1,"Feminine",15.9150684931507,"Asian","Not Hispanic or Latino",15,"Adolescents",0,2,82
+"83",3,0,0,"Masculine",10.158904109589,"Asian","Not Hispanic or Latino",10,"Children",2,3,83
+"84",3,0,5,"Feminine",20.9041095890411,"White","Not Hispanic or Latino",20,"Adults",0,2,84
+"85",3,0,2,"Not Captured by Options",19.3534246575342,"Asian","Not Hispanic or Latino",19,"Adults",1,4,85
+"86",3,0,5,"Feminine",11.613698630137,"Black or African American","Not Hispanic or Latino",11,"Children",1,2,86
+"87",3,0,3,"Feminine",13.3205479452055,"White","Not Hispanic or Latino",13,"Adolescents",0,2,87
+"88",3,0,3,"Feminine",16.5698630136986,"White","Not Hispanic or Latino",16,"Adolescents",4,6,88
+"89",3,0,1,"Masculine",18.9315068493151,"Not Captured by Options","Hispanic or Latino",18,"Adults",0,2,89
+"90",3,0,5,"Feminine",12.786301369863,"Not Captured by Options","Not Hispanic or Latino",12,"Children",0,2,90
+"91",3,0,3,"Masculine",20.0328767123288,"White","Not Hispanic or Latino",20,"Adults",0,0,91
+"92",4,0,4,"Masculine",19.4054794520548,"Not Captured by Options","Not Hispanic or Latino",19,"Adults",1,3,92
+"93",3,2,7,"Masculine",13.2,"White","Not Hispanic or Latino",13,"Adolescents",1,2,93
+"94",3,0,4,"Masculine",13.0465753424658,"Not Captured by Options","Not Hispanic or Latino",13,"Adolescents",0,1,94
+"95",3,0,2,"Masculine",18.9424657534247,"Asian","Not Hispanic or Latino",18,"Adults",0,2,95
+"96",3,0,2,"Feminine",15.0246575342466,"White","Not Hispanic or Latino",15,"Adolescents",0,2,96
+"97",3,0,4,"Masculine",14.2767123287671,"Not Captured by Options","Not Hispanic or Latino",14,"Adolescents",4,7,97
+"98",3,0,1,"Masculine",12.9753424657534,"Not Captured by Options","Not Hispanic or Latino",12,"Children",0,3,98
+"99",3,0,1,"Feminine",16.8027397260274,"White","Not Hispanic or Latino",16,"Adolescents",0,0,99
+"100",3,0,2,"Masculine",10.9616438356164,"White","Not Hispanic or Latino",10,"Children",1,2,100
+"101",3,0,2,"Masculine",15.4082191780822,"White","Not Hispanic or Latino",15,"Adolescents",0,4,101
+"102",3,1,5,"Feminine",20.1205479452055,"Asian","Not Hispanic or Latino",20,"Adults",0,3,102
+"103",3,0,3,"Masculine",17.0383561643836,"White","Not Hispanic or Latino",17,"Adolescents",1,4,103
+"104",3,1,4,"Masculine",10.8657534246575,"White","Not Hispanic or Latino",10,"Children",0,3,104
+"105",3,0,2,"Feminine",19.5698630136986,"White","Not Hispanic or Latino",19,"Adults",1,4,105
+"106",3,0,2,"Feminine",18.2986301369863,"Asian","Not Hispanic or Latino",18,"Adults",0,2,106
+"107",3,0,4,"Feminine",11.6191780821918,"White","Not Hispanic or Latino",11,"Children",0,0,107
+"108",3,0,3,"Masculine",16.8575342465753,"White","Not Hispanic or Latino",16,"Adolescents",0,2,108
+"109",3,0,4,"Feminine",10.9808219178082,"White","Not Hispanic or Latino",10,"Children",0,4,109
+"110",3,0,3,"Feminine",13.8465753424658,"Not Captured by Options","Hispanic or Latino",13,"Adolescents",0,2,110
+"111",3,1,5,"Masculine",12.558904109589,"Asian","Not Hispanic or Latino",12,"Children",1,4,111
+"112",3,0,5,"Feminine",17.5671232876712,"White","Not Hispanic or Latino",17,"Adolescents",1,3,112
+"113",3,3,7,"Masculine",19.4958904109589,"Asian","Not Hispanic or Latino",19,"Adults",3,7,113
+"114",4,0,4,"Masculine",19,"Black or African American","Not Hispanic or Latino",19,"Adults",1,4,114
+"115",3,0,2,"Not Captured by Options",15.9753424657534,"White","Not Hispanic or Latino",15,"Adolescents",0,1,115
+"116",3,0,3,"Feminine",14.4383561643836,"Not Captured by Options","Not Hispanic or Latino",14,"Adolescents",0,3,116
+"117",3,0,5,"Feminine",13.8630136986301,"Not Captured by Options","Not Hispanic or Latino",13,"Adolescents",0,2,117
+"118",3,0,6,"Feminine",16.8986301369863,"White","Not Hispanic or Latino",16,"Adolescents",0,2,118
+"119",3,0,3,"Feminine",12.4246575342466,"Not Captured by Options","Hispanic or Latino",12,"Children",1,5,119
+"120",3,0,4,"Feminine",20.5232876712329,"White","Not Hispanic or Latino",20,"Adults",0,3,120
+"121",3,3,6,"Feminine",10.2520547945205,"White","Hispanic or Latino",10,"Children",1,2,121
+"122",3,0,1,"Masculine",15.2438356164384,"White","Not Hispanic or Latino",15,"Adolescents",0,3,122
+"123",3,0,1,"Feminine",18.8465753424658,"Not Captured by Options","Not Hispanic or Latino",18,"Adults",0,3,123
+"124",3,0,4,"Feminine",19.1424657534247,"White","Not Hispanic or Latino",19,"Adults",0,2,124
+"125",3,0,3,"Masculine",11.358904109589,"White","Not Hispanic or Latino",11,"Children",0,2,125
+"126",4,0,5,"Feminine",16.3397260273973,"White","Not Hispanic or Latino",16,"Adolescents",0,2,126
+"127",5,0,4,"Feminine",13.5698630136986,"White","Not Hispanic or Latino",13,"Adolescents",1,2,127
+"128",3,0,1,"Masculine",12.7698630136986,"White","Not Hispanic or Latino",12,"Children",1,3,128
+"129",4,0,1,"Masculine",20.8,"White","Not Hispanic or Latino",20,"Adults",1,3,129
+"130",3,0,2,"Masculine",13.6164383561644,"Asian","Not Hispanic or Latino",13,"Adolescents",0,1,130
+"131",4,0,4,"Masculine",20.2465753424658,"Black or African American","Not Hispanic or Latino",20,"Adults",0,3,131
+"132",3,0,4,"Masculine",16.6958904109589,"Asian","Not Hispanic or Latino",16,"Adolescents",0,1,132
+"133",5,0,4,"Feminine",15.9561643835616,"Not Captured by Options","Not Hispanic or Latino",15,"Adolescents",0,2,133
+"134",3,0,4,"Feminine",14.827397260274,"White","Not Hispanic or Latino",14,"Adolescents",0,2,134
+"135",3,0,4,"Masculine",12.558904109589,"Not Captured by Options","Hispanic or Latino",12,"Children",0,3,135
+"136",3,0,3,"Feminine",20.4986301369863,"White","Not Hispanic or Latino",20,"Adults",0,1,136
+"137",3,0,4,"Feminine",16.5232876712329,"White","Not Hispanic or Latino",16,"Adolescents",0,0,137
+"138",3,0,3,"Feminine",13.6438356164384,"White","Not Hispanic or Latino",13,"Adolescents",0,1,138
+"139",3,0,3,"Feminine",10.1616438356164,"White","Not Hispanic or Latino",10,"Children",0,3,139
+"140",5,0,6,"Feminine",15.1342465753425,"White","Not Hispanic or Latino",15,"Adolescents",2,5,140
+"141",3,0,1,"Feminine",19.1068493150685,"White","Not Hispanic or Latino",19,"Adults",1,4,141
+"142",3,0,2,"Feminine",18.3890410958904,"Asian","Not Hispanic or Latino",18,"Adults",0,2,142
+"143",5,0,3,"Masculine",16.4767123287671,"Asian","Not Hispanic or Latino",16,"Adolescents",0,3,143
+"144",3,1,6,"Feminine",11.7232876712329,"Not Captured by Options","Not Hispanic or Latino",11,"Children",0,3,144
+"145",3,0,2,"Masculine",15.3150684931507,"White","Not Hispanic or Latino",15,"Adolescents",0,1,145
+"146",3,0,2,"Masculine",14.0821917808219,"White","Not Hispanic or Latino",14,"Adolescents",0,2,146
+"147",3,0,3,"Masculine",10.5123287671233,"White","Not Hispanic or Latino",10,"Children",0,2,147
+"148",3,0,1,"Masculine",20.2438356164384,"Black or African American","Not Hispanic or Latino",20,"Adults",0,0,148
+"149",3,0,3,"Masculine",10.2767123287671,"Not Captured by Options","Hispanic or Latino",10,"Children",0,1,149
+"150",4,2,5,"Masculine",18.5013698630137,"Not Captured by Options","Hispanic or Latino",18,"Adults",4,7,150

@@ -2,12 +2,12 @@ Analysis of Deviance Table (Type II Wald chisquare tests)
 
 Response: keyPostGameRating.keys
                           Chisq Df Pr(>Chisq)    
-correct                  0.3434  1    0.55789    
-Block                  243.9977  3    < 2e-16 ***
-ExactAge                 0.8269  1    0.36318    
-correct:Block            5.6571  3    0.12954    
-correct:ExactAge         0.0103  1    0.91926    
-Block:ExactAge           2.8671  3    0.41257    
-correct:Block:ExactAge   8.3907  3    0.03859 *  
+correct                  0.3576  1    0.54985    
+Block                  249.1723  3    < 2e-16 ***
+ExactAge                 0.8602  1    0.35367    
+correct:Block            5.0176  3    0.17051    
+correct:ExactAge         0.0160  1    0.89946    
+Block:ExactAge           3.0710  3    0.38080    
+correct:Block:ExactAge   8.0662  3    0.04466 *  
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

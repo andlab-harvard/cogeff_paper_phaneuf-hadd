@@ -3,7 +3,7 @@
 ############################################
 
 # Written by: Camille Phaneuf-Hadd (cphaneuf@g.harvard.edu)
-# Last updated: 9/5/24
+# Last updated: 9/10/24
 
 # Inputs: study 1 and study 2 demographic data
 # Computes: 
@@ -35,7 +35,7 @@ study2_analyzed_data_path <- '../results/study2/demog/'
 
 # Read in demographic data
 study1_demog <- read_csv(paste0(study1_demog_data_path, "qa_demog.csv"))
-study2_demog <- read_csv(paste0(study2_demog_data_path, "qa_demog.csv"))
+study2_demog <- read_csv(paste0(study2_demog_data_path, "demog.csv"))
 
 ############################################
 ### Save Study 1 Age-Gender Distribution ###

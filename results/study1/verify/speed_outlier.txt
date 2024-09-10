@@ -1,0 +1,13 @@
+Practice Phase Speed Outliers Across Sample
+# A tibble: 1 × 4
+   mean    sd median     n
+  <dbl> <dbl>  <dbl> <dbl>
+1  2.48  1.35      2   372
+
+Learning Task Speed Outliers Across Sample
+# A tibble: 1 × 4
+   mean    sd median     n
+  <dbl> <dbl>  <dbl> <dbl>
+1  3.43  1.84      3   515
+
+Proportion of speed outlier trials: 0.01642593 

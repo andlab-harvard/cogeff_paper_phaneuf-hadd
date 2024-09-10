@@ -2,21 +2,21 @@ Analysis of Deviance Table (Type II Wald chisquare tests)
 
 Response: cbind(n_corr, n_total - n_corr)
                                                   Chisq Df Pr(>Chisq)   
-bas_drive_total                                  0.8363  1   0.360463   
-Difficulty                                       8.8957  1   0.002858 **
-Incentive                                        0.0135  1   0.907437   
-block_third                                      0.9354  2   0.626433   
-ExactAge                                         7.2784  1   0.006979 **
-bas_drive_total:Difficulty                       0.0805  1   0.776561   
-bas_drive_total:Incentive                        0.0141  1   0.905452   
-Difficulty:Incentive                             1.9133  1   0.166592   
-bas_drive_total:block_third                      2.0187  2   0.364452   
-Difficulty:block_third                           0.6237  2   0.732105   
-Incentive:block_third                            0.3149  2   0.854319   
-bas_drive_total:Difficulty:Incentive             0.0617  1   0.803886   
-bas_drive_total:Difficulty:block_third           5.9988  2   0.049817 * 
-bas_drive_total:Incentive:block_third            4.6429  2   0.098131 . 
-Difficulty:Incentive:block_third                 0.3737  2   0.829555   
-bas_drive_total:Difficulty:Incentive:block_third 0.8181  2   0.664292   
+bas_drive_total                                  0.8372  1   0.360205   
+Difficulty                                       8.8881  1   0.002870 **
+Incentive                                        0.0136  1   0.907138   
+block_third                                      0.9362  2   0.626189   
+ExactAge                                         7.2831  1   0.006961 **
+bas_drive_total:Difficulty                       0.0823  1   0.774142   
+bas_drive_total:Incentive                        0.0147  1   0.903587   
+Difficulty:Incentive                             1.9139  1   0.166527   
+bas_drive_total:block_third                      2.0246  2   0.363385   
+Difficulty:block_third                           0.6197  2   0.733565   
+Incentive:block_third                            0.3114  2   0.855820   
+bas_drive_total:Difficulty:Incentive             0.0599  1   0.806589   
+bas_drive_total:Difficulty:block_third           5.9867  2   0.050120 . 
+bas_drive_total:Incentive:block_third            4.6570  2   0.097440 . 
+Difficulty:Incentive:block_third                 0.3743  2   0.829317   
+bas_drive_total:Difficulty:Incentive:block_third 0.8216  2   0.663110   
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

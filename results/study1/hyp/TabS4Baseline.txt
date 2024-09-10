@@ -2,21 +2,21 @@ Analysis of Deviance Table (Type II Wald chisquare tests)
 
 Response: cbind(n_corr, n_total - n_corr)
                                             Chisq Df Pr(>Chisq)    
-mean_acc                                  19.0445  1  1.277e-05 ***
-Difficulty                                 5.4512  1   0.019554 *  
-Incentive                                  0.0045  1   0.946362    
-block_third                                1.0389  2   0.594846    
-ExactAge                                   8.3236  1   0.003913 ** 
-mean_acc:Difficulty                        1.1587  1   0.281742    
-mean_acc:Incentive                         0.0381  1   0.845305    
-Difficulty:Incentive                       2.1154  1   0.145828    
-mean_acc:block_third                       0.8380  2   0.657720    
-Difficulty:block_third                     0.5798  2   0.748327    
-Incentive:block_third                      0.3779  2   0.827835    
-mean_acc:Difficulty:Incentive              5.9850  1   0.014428 *  
-mean_acc:Difficulty:block_third            0.2166  2   0.897344    
-mean_acc:Incentive:block_third             0.9707  2   0.615473    
-Difficulty:Incentive:block_third           0.4171  2   0.811761    
-mean_acc:Difficulty:Incentive:block_third  0.1424  2   0.931292    
+mean_acc                                  19.0938  1  1.244e-05 ***
+Difficulty                                 5.4508  1    0.01956 *  
+Incentive                                  0.0050  1    0.94383    
+block_third                                1.0299  2    0.59753    
+ExactAge                                   8.3114  1    0.00394 ** 
+mean_acc:Difficulty                        1.1932  1    0.27468    
+mean_acc:Incentive                         0.0396  1    0.84225    
+Difficulty:Incentive                       2.1196  1    0.14543    
+mean_acc:block_third                       0.8622  2    0.64978    
+Difficulty:block_third                     0.5860  2    0.74602    
+Incentive:block_third                      0.3745  2    0.82926    
+mean_acc:Difficulty:Incentive              5.8873  1    0.01525 *  
+mean_acc:Difficulty:block_third            0.2010  2    0.90436    
+mean_acc:Incentive:block_third             0.9741  2    0.61443    
+Difficulty:Incentive:block_third           0.4222  2    0.80971    
+mean_acc:Difficulty:Incentive:block_third  0.1347  2    0.93486    
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

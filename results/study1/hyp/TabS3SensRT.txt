@@ -2,20 +2,20 @@ Analysis of Deviance Table (Type II Wald chisquare tests)
 
 Response: keyTrial.rt
                                             Chisq Df Pr(>Chisq)    
-ExactAge                                  17.5948  1  2.733e-05 ***
-Difficulty                                74.5387  1  < 2.2e-16 ***
-Incentive                                  0.0142  1    0.90529    
-block_third                               21.3427  2  2.320e-05 ***
-ExactAge:Difficulty                        2.3977  1    0.12151    
-ExactAge:Incentive                         0.6989  1    0.40317    
-Difficulty:Incentive                       0.0964  1    0.75621    
-ExactAge:block_third                       0.0867  2    0.95759    
-Difficulty:block_third                     2.7425  2    0.25379    
-Incentive:block_third                      0.4174  2    0.81163    
-ExactAge:Difficulty:Incentive              3.2083  1    0.07326 .  
-ExactAge:Difficulty:block_third            1.7097  2    0.42535    
-ExactAge:Incentive:block_third             4.1599  2    0.12494    
-Difficulty:Incentive:block_third           0.4473  2    0.79961    
-ExactAge:Difficulty:Incentive:block_third  4.5231  2    0.10419    
+ExactAge                                  17.5943  1  2.734e-05 ***
+Difficulty                                74.5308  1  < 2.2e-16 ***
+Incentive                                  0.0130  1     0.9091    
+block_third                               21.3469  2  2.315e-05 ***
+ExactAge:Difficulty                        2.4013  1     0.1212    
+ExactAge:Incentive                         0.6809  1     0.4093    
+Difficulty:Incentive                       0.1025  1     0.7489    
+ExactAge:block_third                       0.0862  2     0.9578    
+Difficulty:block_third                     2.7475  2     0.2532    
+Incentive:block_third                      0.4257  2     0.8083    
+ExactAge:Difficulty:Incentive              3.2505  1     0.0714 .  
+ExactAge:Difficulty:block_third            1.7074  2     0.4258    
+ExactAge:Incentive:block_third             4.2209  2     0.1212    
+Difficulty:Incentive:block_third           0.4373  2     0.8036    
+ExactAge:Difficulty:Incentive:block_third  4.5921  2     0.1007    
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
