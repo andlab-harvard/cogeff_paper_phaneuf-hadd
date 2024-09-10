@@ -36,4 +36,4 @@ Contains text and png file outputs from scripts in analyses/, sorted by study an
 
 ### annotated_figs/ directory
 
-Contains annotated_figs.pptx (which annotates several figures beyond the limits of R) and the png files it produces.
+Contains annotated_figs.pptx, which annotates several figures beyond the limits of R.
