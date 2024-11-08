@@ -3,7 +3,7 @@
 ############################
 
 # Written by: Camille Phaneuf-Hadd (cphaneuf@g.harvard.edu)
-# Last updated: 9/8/24
+# Last updated: 11/8/24
 
 # Inputs: study 2 learning task
 # Computes:
@@ -29,8 +29,9 @@ source("utilities.R")
 # Set path to data
 data_path <- '../data/study2/'
 
-# Set output path
+# Set output paths
 hyp_analyzed_data_path <- '../results/study2/hyp/'
+comp_analyzed_data_path <- '../results/study2/comp/'
 
 # Read in data
 learn <- read_csv(paste0(data_path, "learn.csv"))
@@ -54,6 +55,21 @@ learn_acc_stats <- learn_noNA %>%
   group_by(Difficulty, Incentive, block_third, ExactAge, participant) %>%
   dplyr::summarise(n_corr = sum(correct == 1), n_total = length(correct)) 
 
+#########################################################
+### Prepping for Analysis - Comparing Studies 1 and 2 ###
+#########################################################
+
+# Read in study 1 data
+study1_learn <- read_csv("../data/study1/learn.csv")
+
+# Create dfs for between-study accuracy comparisons 
+study1_acc <- study1_learn %>% dplyr::group_by(participant) %>% dplyr::summarise(study1_mean = mean(correct, na.rm = TRUE))
+study2_acc <- learn %>% dplyr::group_by(participant) %>% dplyr::summarise(study2_mean = mean(correct, na.rm = TRUE))
+
+# Create dfs for between-study RT comparisons
+study1_rt <- study1_learn %>% dplyr::group_by(participant) %>% dplyr::summarise(study1_mean = mean(keyTrial.rt, na.rm = TRUE))
+study2_rt <- learn %>% dplyr::group_by(participant) %>% dplyr::summarise(study2_mean = mean(keyTrial.rt, na.rm = TRUE))
+
 ############################
 ### Testing Hypothesis 4 ###
 ############################
@@ -66,4 +82,28 @@ posterior_predictive_check(learning_acc_binom) # Awesome! Binomial distribution 
 # Identify main effects and interactions from learning_acc_binom
 sink(paste0(hyp_analyzed_data_path, 'TabS5.txt'))
 print(Anova(learning_acc_binom, type = "II"))
+sink()
+
+#################################
+### Comparing Studies 1 and 2 ###
+#################################
+
+# Accuracy (if lower accuracy in study 1 than 2, then evidence for study 1 being overall more challenging)
+study_acc <- t.test(study1_acc$study1_mean, study2_acc$study2_mean, paired = FALSE, alternative = "less")
+sink(paste0(comp_analyzed_data_path, 'comp_acc.txt'))
+cat("Study 1 Mean:", mean(study1_acc$study1_mean), "\n")
+cat("Study 1 Standard Deviation:", sd(study1_acc$study1_mean), "\n")
+cat("Study 2 Mean:", mean(study2_acc$study2_mean), "\n")
+cat("Study 2 Standard Deviation:", sd(study2_acc$study2_mean), "\n")
+print(study_acc)
+sink()
+
+# RT (if higher RT in study 1 than 2, then evidence for study 1 being overall more challenging)
+study_rt <- t.test(study1_rt$study1_mean, study2_rt$study2_mean, paired = FALSE, alternative = "greater")
+sink(paste0(comp_analyzed_data_path, 'comp_rt.txt'))
+cat("Study 1 Mean:", mean(study1_rt$study1_mean), "\n")
+cat("Study 1 Standard Deviation:", sd(study1_rt$study1_mean), "\n")
+cat("Study 2 Mean:", mean(study2_rt$study2_mean), "\n")
+cat("Study 2 Standard Deviation:", sd(study2_rt$study2_mean), "\n")
+print(study_rt)
 sink()

@@ -1,0 +1,16 @@
+Study 1 Mean: 0.6925061 
+Study 1 Standard Deviation: 0.1417994 
+Study 2 Mean: 0.7018387 
+Study 2 Standard Deviation: 0.141406 
+
+	Welch Two Sample t-test
+
+data:  study1_rt$study1_mean and study2_rt$study2_mean
+t = -0.57077, df = 298, p-value = 0.7157
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.03631129         Inf
+sample estimates:
+mean of x mean of y 
+0.6925061 0.7018387 
+
