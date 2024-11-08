@@ -28,7 +28,7 @@ Contains demographic, learning task, practice phase, post-task rating, self-repo
 
 *study1_analyses.R* takes learning task, practice phase, post-task rating, self-report questionnaire, and paradigm validation data inputs from data/study1/ and writes outputs to results/study1/verify/ and results/study1/hyp/.
 
-*study2_analyses.R* takes learning task data inputs from data/study2/ and writes outputs to results/study2/hyp/.
+*study2_analyses.R* takes learning task data inputs from data/study2/ and writes outputs to results/study2/hyp/ and results/study2/comp/.
 
 ### results/ directory
 
