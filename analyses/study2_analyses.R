@@ -8,8 +8,10 @@
 # Inputs: study 2 learning task
 # Computes:
 # - statistical assessment of hypothesis 4
+# - statistical assessments comparing studies 1 and 2
 # Outputs:
 # - txt file of hypothesis test into results/study2/hyp directory
+# - txt files of comparison tests into results/study2/comp directory
 
 #####################
 ### Set up Script ###
