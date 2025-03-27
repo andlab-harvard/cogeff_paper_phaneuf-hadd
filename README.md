@@ -4,9 +4,7 @@ Data and Code
 
 *to accompany*
 
-Characterizing Age-Related Change in Learning the Value of Cognitive Effort
-
-Phaneuf-Hadd, C.V., Jacques, I.M., Insel, C., Otto, A.R., & Somerville, L.H. (2024)
+Phaneuf-Hadd, C.V., Jacques, I.M., Insel, C., Otto, A.R., & Somerville, L.H. (2025). Characterizing Age-Related Change in Learning the Value of Cognitive Effort. *Journal of Experimental Psychology: General*. doi: 10.1037/xge0001745.
 
 ## Developer Contact Information
 
